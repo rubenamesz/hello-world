@@ -1,2 +1,2 @@
 # hello-world
-Este es el primer repositorio >v
+Este es el primer repositorio :v
